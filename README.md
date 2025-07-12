@@ -1,4 +1,4 @@
-# kamran674
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kamran674&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
@@ -6,7 +6,7 @@
 <h1 align="center">⚡ ByteSmith</h1>
 
 <p align="center">
-Hi there! 👋 I'm Kamran — a code craftsman sculpting powerful solutions in C++ and Python, driven by curiosity and creativity. 🚀
+Hi there! 👋 I'm Malik Kamran Ali— a code craftsman sculpting powerful solutions in C++ and Python, driven by curiosity and creativity. 🚀
 </p>
 
 ---
